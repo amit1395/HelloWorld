@@ -7,3 +7,5 @@ This changes are from edit branch .
 Hello Mr.Amit Pal
 
 #This is to test the branch
+
+I am test branch please learn merging prooperly and commit changes.
